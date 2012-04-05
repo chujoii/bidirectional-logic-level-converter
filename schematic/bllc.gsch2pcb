@@ -1,0 +1,3 @@
+schematics bllc.sch
+output-name bllc
+elements-dir /home/toor/project/geda/footprints-my
