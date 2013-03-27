@@ -1,3 +1,4 @@
 schematics bllc.sch
 output-name bllc
 elements-dir /home/chujoii/project/geda/footprints-my
+elements-dir /home/chujoii/project/geda/footprints-geda
